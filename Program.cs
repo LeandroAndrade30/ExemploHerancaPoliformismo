@@ -1,6 +1,6 @@
 ﻿using System;
 
-// Criação da classd Base Veiculo
+// Criação da classe Base Veiculo
 public class Veiculo
 {
     public virtual void MostrarVelocidadeMaxima()
